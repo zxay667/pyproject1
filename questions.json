@@ -1,0 +1,32 @@
+{
+  "questions": [
+    {
+      "question": "What is the capital of France?",
+      "options": ["Paris", "London", "Berlin", "Madrid"],
+      "answer": "Paris"
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Earth", "Mars", "Jupiter", "Venus"],
+      "answer": "Mars"
+    },
+    {
+      "question": "Who wrote 'Romeo and Juliet'?",
+      "options": ["William Shakespeare", "Charles Dickens", "Jane Austen", "Mark Twain"],
+      "answer": "William Shakespeare"
+    },
+    {"question":"who created this questions?",
+    "options": ["Alice", "Bob", "Charlie", "David","yogish"],
+     "answer":"yogish"
+    },   
+    
+    {"question":"who is the best cricketer in the world?",
+        "options": ["Sachin Tendulkar", "Virat Kohli", "Jacques Kallis", "Adam Gilchrist"],
+        "answer": "Sachin Tendulkar"
+        },
+        {"question":"when india got independence?",
+        "options":["1946","1987","1998","1947"],
+        "answer":"1947"
+    }
+  ]
+}
